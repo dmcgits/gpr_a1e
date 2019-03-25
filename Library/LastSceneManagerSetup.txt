@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/follow_done.unity
+  isLoaded: 1
+  isActive: 1
